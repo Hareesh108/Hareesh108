@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning App Developer.
 - 👯 I’m looking to collaborate on YouTube.
 - 💬 Ask me about Web Development.
 - 😄 Nickname : Prince
