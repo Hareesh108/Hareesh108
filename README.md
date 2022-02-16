@@ -1,9 +1,7 @@
 ### Hola, This is Hareesh Bhittam 👋
-
-
-- 🔭 I’m currently working on Web Development.
+<!-- - 🔭 I’m currently working on Web Development. -->
 <!-- - 🌱 I’m currently learning App Development. -->
-- 👯 I’m looking to collaborate on YouTube.
+<!-- - 👯 I’m looking to collaborate on YouTube. -->
 - 💬 Ask me about Web Development.
 - 😄 Nickname : Prince
 - ⚡ Fun fact I am Mechanical Engineer.
