@@ -1,4 +1,9 @@
-### Hola, This is Hareesh Bhittam 👋
+
+
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> This is Hareesh Bhitta</h1>
 
 <!-- - 🔭 I’m currently working on Web Development. -->
 <!-- - 🌱 I’m currently learning App Development. -->
@@ -42,5 +47,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hareesh108&theme=vue"/>
 </p>
 
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hareesh108&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hareesh108&theme=vue" />
+</p>
 
 ### Show some ❤️ by starring some of the repositories!
