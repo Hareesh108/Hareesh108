@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hareesh108&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Hareesh108" /> </p>
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_prince__108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareeshbhittam) [![Twitter](https://img.shields.io/twitter/follow/imthepk?logo=Twitter&style=for-the-badge)](https://twitter.com/hareesh_bhittam)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_prince__108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareeshbhittam) [![Twitter](https://img.shields.io/twitter/follow/hareesh_bhittam?logo=Twitter&style=for-the-badge)](https://twitter.com/hareesh_bhittam)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hareesh108&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
