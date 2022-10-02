@@ -3,9 +3,9 @@
 <!-- - 🔭 I’m currently working on Web Development. -->
 <!-- - 🌱 I’m currently learning App Development. -->
 <!-- - 👯 I’m looking to collaborate on YouTube. -->
-<!-- - 💬 Ask me about Web Development.
+- 💬 Ask me about Web Development.
 - 😄 Nickname : Prince
-- ⚡ Fun fact I am Mechanical Engineer. -->
+- ⚡ Fun fact I am Mechanical Engineer.
 - 📫 How to reach me: Check social links below.|
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hareesh108&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Hareesh108" /> </p>
