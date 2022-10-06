@@ -9,7 +9,7 @@
 <!-- - 🌱 I’m currently learning App Development. -->
 <!-- - 👯 I’m looking to collaborate on YouTube. -->
 - 💬 Ask me about Web Development.
-- 😄 Nickname : Prince
+<!-- - 😄 Nickname : Prince -->
 - ⚡ Fun fact I am Mechanical Engineer.
 - 📫 How to reach me: Check social links below.|
 
