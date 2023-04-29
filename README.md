@@ -5,7 +5,7 @@
          height="45"
          width="45" /> This is Hareesh Bhittam</h1>
 
- [![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](hareeshbhittam.me)        
+ [![](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](hareeshbhittam.me)        
 
 <!-- - 🔭 I’m currently working on Web Development. -->
 <!-- - 🌱 I’m currently learning App Development. -->
