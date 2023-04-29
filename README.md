@@ -1,4 +1,6 @@
 
+<img align="center" 
+         src="harsh1.gif" width="100%" alt="Image" /> 
 
 <h1 align="center" style= "color: yellow" > Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -6,9 +8,6 @@
          width="45" /> This is Hareesh Bhittam</h1>
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
-<img align="right" height="200"
-         width="200" src="harsh.gif" alt="Image" /> 
 
 - 💬 Ask me about **React, Next.js**
 - 😄 Nickname : **Harsh, Harry, Prince**
