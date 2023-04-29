@@ -64,3 +64,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hareesh108&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Hareesh108" /> </p>
 
 ### Show some ❤️ by starring some of the repositories!
+
+<style>
+
+  h1{
+    color: yellow;
+  }
+
+</style>
