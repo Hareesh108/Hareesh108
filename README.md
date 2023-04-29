@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" src="harsh.gif.gif" alt="Image" /> 
+<img align="right" src="harsh.gif" alt="Image" /> 
 
 - 💬 Ask me about **React, Next.js**
 - 😄 Nickname : **Harsh, Harry, Prince**
