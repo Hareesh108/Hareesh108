@@ -14,8 +14,8 @@
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 💬 Ask me about **React, Next.js**
-- 😄 Nickname : **Harsh, Harry, Prince**
+- 💬 Ask me about **Typescript, React, Next.js**
+- 😄 Nickname : **Harsh, Harry**
 - ⚡ Fun fact I am Mechanical Engineer.
 - 📝 I regularly write articles on [hareesh.hashnode.dev](hareesh.hashnode.dev)
 
