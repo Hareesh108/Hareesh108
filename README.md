@@ -1,7 +1,6 @@
 
 <!-- Banner -->
-<img align="center" 
-         src="harsh1.gif" width="100%" alt="Image" /> 
+<img align="center" src="harsh1.gif" width="100%" alt="Image" /> 
 
 <!-- Visited Count Display -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Hareesh108&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Hareesh108" /> </p>
@@ -16,12 +15,12 @@
 
 - 💬 Ask me about **Typescript, React, Next.js**
 - 😄 Nickname : **Harsh, Harry**
-- ⚡ Fun fact I am Mechanical Engineer.
+- ⚡ Fun fact I am a Mechanical Engineer.
 - 📝 I regularly write articles on [hareesh.hashnode.dev](hareesh.hashnode.dev)
 
 
 
-- 📫 How to reach me: Check social links below.
+- 📫 How to reach me: Check the social links below.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_prince__108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareeshbhittam) [![Twitter](https://img.shields.io/twitter/follow/hareesh_bhittam?logo=Twitter&style=for-the-badge)](https://twitter.com/hareesh_bhittam)
