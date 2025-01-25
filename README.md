@@ -36,5 +36,13 @@
 ###
 
 <!-- Socials -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareeshbhittam) 
-[![Twitter](https://img.shields.io/twitter/follow/hareesh_bhittam?logo=Twitter&style=for-the-badge)](https://x.com/hareesh_bhittam)
+<div align="left">
+  <a href="https://www.linkedin.com/in/hareeshbhittam/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/hareesh_bhittam" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Follw%20on%20Twitter!&logo=twitter&label=&color=555555&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="twitter logo"  />
+  </a>
+</div>
+
+###
