@@ -21,6 +21,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://x.com/hareesh_bhittam">
-    <img src="https://img.shields.io/twitter/follow/hareesh_bhittam?logo=Twitter&style=for-the-badge">
+    <img src="https://img.shields.io/twitter/follow/hareesh_bhittam?logo=Twitter">
   </a>
 </p>
