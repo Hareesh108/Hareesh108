@@ -16,11 +16,5 @@
 - Let’s connect 🤝 to transform ideas into impactful, cutting-edge solutions—one line of code at a time. ✨
 
 <!-- Socials -->
-<p align="right">
-  <a href="https://www.linkedin.com/in/hareeshbhittam">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://x.com/hareesh_bhittam">
-    <img src="https://img.shields.io/twitter/follow/hareesh_bhittam?logo=Twitter">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareeshbhittam) 
+[![Twitter](https://img.shields.io/twitter/follow/hareesh_bhittam?logo=Twitter&style=for-the-badge)](https://x.com/hareesh_bhittam)
