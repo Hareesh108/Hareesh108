@@ -12,10 +12,10 @@
          width="45" /> This is Hareesh Bhittam</h1>
 
 <!-- About me -->
-<p>
+<p></p>
 - 💬 Passionate software engineer driven by coding, innovation, and solving complex challenges. Thrive on exploring emerging technologies (AI/ML, blockchain, cloud) to build scalable solutions. Committed to lifelong learning and shaping the future of tech across industries.
 - 💬 Let’s connect to transform ideas into impactful, cutting-edge solutions—one line of code at a time.
-</p>
+
 
 <!-- Socials -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareeshbhittam) 
