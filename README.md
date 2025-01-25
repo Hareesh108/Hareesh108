@@ -15,6 +15,12 @@
 - Passionate software engineer 🚀 driven by coding 💻, innovation 💡, and solving complex challenges. Thrive on exploring emerging technologies (AI/ML 🤖, blockchain 🔗, cloud ☁️) to build scalable solutions 📈. Committed to lifelong learning 📚 and shaping the future of tech across industries.
 - Let’s connect 🤝 to transform ideas into impactful, cutting-edge solutions—one line of code at a time. ✨
 
+<!-- Wave -->
+<h1 align="center" style= "color: yellow" > Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> This is Hareesh Bhittam</h1>
+         
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="6" />
