@@ -62,7 +62,7 @@
               src="https://skillicons.dev/icons?i=spring"
               height="40"
               alt="spring logo"
-            />{" "}
+            />
             <img width="5" />
             <img
               src="https://skillicons.dev/icons?i=docker"
