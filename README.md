@@ -11,10 +11,9 @@
          height="45"
          width="45" /> This is Hareesh Bhittam</h1>
 
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A Passionate Full Stack developer from India.</h3>
 
 - 💬 Ask me about **Typescript, React, Next.js**
-- 😄 Nickname : **Harsh, Harry**
 - ⚡ Fun fact I am a Mechanical Engineer.
 - 📝 I regularly write articles on [hareesh.hashnode.dev](hareesh.hashnode.dev)
 
@@ -23,7 +22,8 @@
 - 📫 How to reach me: Check the social links below.
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_prince__108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareeshbhittam) [![Twitter](https://img.shields.io/twitter/follow/hareesh_bhittam?logo=Twitter&style=for-the-badge)](https://twitter.com/hareesh_bhittam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareeshbhittam) 
+[![Twitter](https://img.shields.io/twitter/follow/hareesh_bhittam?style=for-the-badge&logo=twitter&color=1DA1F2&labelColor=FFFFFF)](https://twitter.com/hareesh_bhittam)
 
 ## 💻 Tech Stack
 
@@ -57,22 +57,6 @@
 <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
 
 
- <!--- ## 📟 GitHub Stats
-<p align="center">
-	<img width="48%"  src="https://github-readme-stats.vercel.app/api?username=Hareesh108&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hareesh108&theme=vue" />
-</p> -->
-
-
-  <!--- ## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Hareesh108&theme=minimal"/>
-</p> -->
-
-<!-- ## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hareesh108&theme=vue"/>
-</p> -->
 
 ### Show some ❤️ by starring some of the repositories!
 
