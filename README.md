@@ -15,7 +15,7 @@
 - Passionate software engineer 🚀 driven by coding 💻, innovation 💡, and solving complex challenges. Thrive on exploring emerging technologies (AI/ML 🤖, blockchain 🔗, cloud ☁️) to build scalable solutions 📈. Committed to lifelong learning 📚 and shaping the future of tech across industries.
 - Let’s connect 🤝 to transform ideas into impactful, cutting-edge solutions—one line of code at a time. ✨
 
- <div align="left">
+ <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
