@@ -11,14 +11,12 @@
          height="45"
          width="45" /> This is Hareesh Bhittam</h1>
 
-<h3 align="center">A Passionate Full Stack developer from India.</h3>
-
-- 💬 Ask me about **Typescript, React, Next.js**
+- 💬 Passionate software engineer in the banking domain, merging technology with finance to solve complex challenges. Thrive on coding, innovation, and exploring emerging tech (AI/ML, blockchain, cloud) to drive efficient solutions. Committed to lifelong learning and shaping the future of tech-driven finance.
+- Let’s connect and build tomorrow’s banking landscape, one line of code at a time.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareeshbhittam) 
 [![Twitter](https://img.shields.io/twitter/follow/hareesh_bhittam?logo=Twitter&style=for-the-badge)](https://twitter.com/hareesh_bhittam)
-
 
 ### Show some ❤️ by starring some of the repositories!
 
