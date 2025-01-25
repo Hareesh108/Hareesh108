@@ -33,7 +33,10 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  /> <img width="6" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  /> 
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
@@ -45,6 +48,11 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+</div>
+
+###
+
+<div align="left">
 </div>
 
 ###
